@@ -1,0 +1,60 @@
+﻿@model List<StoreCars.Models.Payment>
+
+<h2 style="text-align: center">Giao dịch hoàn tất</h2>
+<p>
+    <a href="https://sandbox.vnpayment.vn/merchantv2/Home/Dashboard.htm" target="_blank class=" class="btn btn-success mb-2">Xem chi tiết</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>STT</th>
+            <th>Payment ID</th>
+            <th>Order ID</th>
+            <th>Full Name</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Payment Method</th>
+            <th>Amount</th>
+            <th>Payment Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 1;
+        }
+        @foreach (var payment in Model)
+        {
+            <tr>
+                <td>
+                    @count
+                </td>
+                <td>@payment.PaymentsId</td>
+                <td>@payment.OdersId</td>
+                <td>@payment.Oders.Account.FullName</td>
+                <td>@payment.Oders.Account.Email</td>
+                <td>@payment.Oders.Account.Phone</td>
+                <td>@payment.PaymentMethods.Name</td>
+                <td>@payment.Amount?.ToString("C")</td>
+                <td>@payment.PaymentDate?.ToString("dd/MM/yyyy")</td>
+                    @if (payment?.Oders.Status == 2)
+                    {
+                    <td>Chờ cửa hàng xác nhận</td>
+                    }
+                    @if (payment?.Oders.Status == 3)
+                    {
+                    <td>Đang vận chuyển</td>
+                    }
+                    @if (payment?.Oders.Status == 4)
+                    {
+                    <td>Đã nhận</td>
+                    }
+                    @if (payment?.Oders.Status == 5)
+                    {
+                    <td>Đã hủy</td>
+                    }
+            </tr>
+            count++;
+        }
+    </tbody>
+</table>

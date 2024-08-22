@@ -1,0 +1,86 @@
+﻿@model Oder
+@{
+    ViewData["Title"] = "Order Detail";
+}
+
+<div class="col-md-24" style="border: 2px solid #000; margin-top: 150px">
+    <div class="card mb-3">
+        <div class="card-body">
+            <h3 style="text-align:center;margin-bottom:10px">Chi tiết đơn hàng</h3>
+            <div class="row" style="margin-bottom:10px">
+                <div class="col-sm-3">
+                    <h5 class="mb-0">Mã đơn hàng</h5>
+                </div>
+                <div class="col-sm-3">
+                    <h5 class="mb-0">Ngày đặt</h5>
+                </div>
+                <div class="col-sm-3">
+                    <h5 class="mb-0">Tổng tiền</h5>
+                </div>
+                <div class="col-sm-3">
+                    <h5 class="mb-0">Trạng thái</h5>
+                </div>
+            </div>
+            <div class="row" style="padding:5px">
+                <div class="col-sm-3">
+                    <h5 class="mb-0">@Model.OdersId</h5>
+                </div>
+                <div class="col-sm-3">
+                    <h5 class="mb-0">@Model.CreateDay</h5>
+                </div>
+                <div class="col-sm-3">
+                    <h5 class="mb-0">@string.Format("{0:N0}", @Model.Total) VNĐ</h5>
+                </div>
+                <div class="col-sm-3">
+                    @if (Model.Status == 2)
+                    {
+                        <h5 class="mb-0" style="background: #FFFF00; text-align: center; border-radius: 10px">Chờ xác nhận</h5>
+                    }
+                    @if (Model.Status == 3)
+                    {
+                        <h5 class="mb-0" style="background: #00CCFF; text-align: center; border-radius: 10px">Đang vận chuyển</h5>
+                    }
+                    @if (Model.Status == 4)
+                    {
+                        <h5 class="mb-0" style="background: #33FF33; text-align: center; border-radius: 10px">Đã nhận</h5>
+                    }
+                    @if (Model.Status == 5)
+                    {
+                        <h5 class="mb-0" style="background: #CC0000; text-align: center; ; border-radius: 10px">Đã hủy </h5>
+                    }
+                </div>
+            </div>
+            <hr />
+            <h4 style="text-align: center; margin-top: 35px ">Chi tiết sản phẩm</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>STT</th>
+                        <th>Tên sản phẩm</th>
+                        <th>Hình ảnh</th>
+                        <th>Số lượng</th>
+                        <th>Đơn giá</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int stt = 1;
+                    }
+                    @foreach (var item in Model.OderItems)
+                    {
+                        <tr>
+                            <td>@stt</td>
+                            <td>@item.Product.Name</td>
+                            <td>
+                                <img src="@Url.Content("~/contents/Images/Product/" + item.Product.Image)" style="width: 110px; height: 110px; border-radius: 20px;" alt="" id="output">
+                            </td>
+                            <td>@item.Quantity</td>
+                            <td>@string.Format("{0:N0}", @item.Product.Price) VNĐ</td>
+                        </tr>
+                        stt++;
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

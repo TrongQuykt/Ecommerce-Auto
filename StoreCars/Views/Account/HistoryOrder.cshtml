@@ -1,0 +1,128 @@
+﻿@model Account
+@{
+    var AvartarClaim = User.Claims.FirstOrDefault(c => c.Type == "Avartar");
+    var Avartar = "";
+    if (AvartarClaim != null)
+    { Avartar = AvartarClaim.Value; }
+    var Addresses = ViewBag.Addresses;
+    ViewData["Title"] = "History Order";
+    var DonHang = ViewBag.Donhang as List<Oder>;
+}
+<div class="col-md-24" style="border: 2px solid #000; margin-top: 150px">
+    <div class="card mb-3">
+        <div class="card-body">
+            <h3 style="text-align:center;margin-bottom:10px">Lịch sử mua hàng</h3>
+            <div class="row" style="margin-bottom:10px">
+                <div class="col-sm-1">
+                    <h5 class="mb-0">STT</h5>
+                </div>
+                <div class="col-sm-2">
+                    <h5 class="mb-0">Họ tên</h5>
+                </div>
+                <div class="col-sm-2">
+                    <h5 class="mb-0">Địa chỉ giao hàng</h5>
+                </div>
+                <div class="col-sm-1">
+                    <h5 class="mb-0" style="white-space: nowrap;">Ngày đặt</h5>
+                </div>
+@*                 <div class="col-sm-2">
+                    <h5 class="mb-0">Chi tiết sản phẩm</h5>
+                </div> *@
+                <div class="col-sm-2">
+                    <h5 class="mb-0">Tổng tiền</h5>
+                </div>
+                <div class="col-sm-2">
+                    <h5 class="mb-0">Chi tiết</h5>
+                </div>
+                <div class="col-sm-2">
+                    <h5 class="mb-0">Trạng thái</h5>
+                </div>
+            </div>
+            @{
+                int stt = 1;
+
+            }
+            @foreach (var item in DonHang)
+            {
+                <div class="row" style="padding:5px">
+                    <div class="col-sm-1">
+                        <h5 class="mb-0">@stt</h5>
+                    </div>
+                    <div class="col-sm-2">
+                        <h5 class="mb-0">@item.Account.FullName</h5>
+                    </div>
+                    <div class="col-sm-2">
+                        <h5 class="mb-0">
+                            @item.Account.Addresses.FirstOrDefault().Street
+                            @item.Account.Addresses.FirstOrDefault().Ward
+                            @item.Account.Addresses.FirstOrDefault().District
+                            @item.Account.Addresses.FirstOrDefault().City
+                            @item.Account.Addresses.FirstOrDefault().Country
+                        </h5>
+                    </div>
+                    <div class="col-sm-1">
+                        <h5 class="mb-0">@item.CreateDay</h5>
+                    </div>
+  @*                   <div class="col-sm-2">
+                        @{
+                            int ssp = 1;
+                        }
+                        @foreach (var item1 in item.OderItems)
+                        {
+                            <h5 class="mb-0" style="font-family: 'Muli'; color:#000 !important;">
+                                @ssp.  @item1.Product.Name
+                            </h5>
+                            ssp++;
+
+                        }
+                    </div> *@
+                    <div class="col-sm-2">
+                        <h5 class="mb-0">
+                            @string.Format("{0:N0}", @item.Total) VNĐ
+                        </h5>
+                    </div>
+                    <div class="col-sm-2">
+                        <a href="@Url.Action("OrderDetail", "Account", new { id = item.OdersId })" class="btn btn-info" style="background: #9933FF; border: 1px solid #000; border-radius: 20px">Xem chi tiết</a>
+                    </div>
+                    @if (item.Status == 2)
+                    {
+                        <div class="col-sm-2">
+                            <h5 class="mb-0" style="background: #FFFF00; text-align: center; border-radius: 10px">Chờ xác nhận</h5>
+                            <a class="btn rounded-pill py-sm-2 px-sm-4 ms-1 text-white" asp-route-id="@item.OdersId" asp-action="CanOrderby" style="background: #CC0000; margin-top: 5px">Hủy đơn</a>
+                        </div>
+                    }
+                    @* @if (item.Status == 3)
+                    {
+                        <div class="col-sm-2">
+                            <h5 class="mb-0" style="background: #00CCFF; text-align: center; border-radius: 10px">Đang vận chuyển</h5>
+                        </div>
+                    } *@
+                    @if (item.Status == 3) // Đang vận chuyển
+                    {
+                        <div class="col-sm-2">
+                            <h5 class="mb-0" style="background: #00CCFF; text-align: center; border-radius: 10px">Đang vận chuyển</h5>
+                            <a class="btn rounded-pill py-sm-2 px-sm-4 ms-1 text-white" asp-controller="Account" asp-action="ConfirmOrder" asp-route-id="@item.OdersId" style="background: #33CC33; margin-top: 5px">Xác nhận đã nhận</a>
+                        </div>
+                    }
+
+                    @if (item.Status == 4)
+                    {
+                        <div class="col-sm-2">
+                            <h5 class="mb-0" style="background: #33FF33; text-align: center; border-radius: 10px">Đã nhận</h5>
+                        </div>
+                    }@if (item.Status == 5)
+                    {
+                        <div class="col-sm-2">
+                            <h5 class="mb-0" style="background: #CC0000; text-align: center; ; border-radius: 10px">Đã hủy </h5>
+                        </div>
+                    }
+
+
+                    <hr />
+                </div>
+                stt++;
+            }
+
+        </div>
+    </div>
+</div>

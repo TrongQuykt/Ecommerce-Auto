@@ -1,0 +1,82 @@
+﻿@model StoreCars.Models.Oder
+
+@{
+    ViewData["Title"] = "Chi tiết đơn hàng";
+}
+
+<div class="page-header">
+    <h1 class="page-title"style="font-size: 30px">Chi tiết đơn hàng</h1>
+</div>
+<p>
+    <a asp-action="Index" asp-controller="Order" class="btn btn-success mb-2">Trở về </a>
+</p>
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body" style="border: 3px solid #000">
+            <h4 style="text-align: center">Thông tin đơn hàng</h4>
+            <p><strong>Mã đơn hàng:</strong> @Model.OdersId</p>
+            <p><strong>Người đặt:</strong> @Model.Account?.FullName</p>
+            <p><strong>Email:</strong> @Model.Account?.Email</p>
+            <p><strong>SĐT:</strong> @Model.Account?.Phone</p>
+            <p>
+                <strong>Địa chỉ:</strong> @Model?.Account?.Addresses.FirstOrDefault()?.Street ,
+                @Model?.Account?.Addresses.FirstOrDefault()?.Ward,
+                @Model?.Account?.Addresses.FirstOrDefault()?.District,
+                @Model?.Account?.Addresses.FirstOrDefault()?.City
+            </p>
+            <p><strong>Tổng tiền:</strong> @Model.Total?.ToString("C")</p>
+            <p><strong>Ngày đặt:</strong> @Model.CreateDay</p>
+            <p>
+                <strong>Trạng thái:</strong>
+                @switch (Model.Status)
+                {
+                    case 2:
+                        <span style="background-color: #FFFF00;">Chờ cửa hàng xác nhận</span> <i class="fas fa-clock"></i>
+                        break;
+                    case 3:
+                        <span style="background-color: #00FFFF;">Đang vận chuyển</span> <i class="fas fa-truck"></i>
+                        break;
+                    case 4:
+                        <span style="background-color: #00FF33;">Đã hoàn thành</span> <i class="fas fa-check-circle"></i>
+                        break;
+                    case 5:
+                        <span style="background-color: #FF0000;">Đã hủy</span> <i class="fas fa-times-circle"></i>
+                        break;
+                }
+            </p>
+            <hr />
+            <h4 style="text-align: center">Danh sách sản phẩm</h4>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>STT</th>
+                        <th>Tên sản phẩm</th>
+                        <th>Hình ảnh</th>
+                        <th>Số lượng</th>
+                        <th>Đơn giá</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int count = 1;
+                    }
+                    @foreach (var detail in Model.OderItems)
+                    {
+                        <tr>
+                            <td>@count</td>
+                            <td>@detail.Product.Name</td>
+                            <td>
+                                <img src="@Url.Content("~/contents/Images/Product/" + detail.Product.Image)" style="width: 80px; height: 80px; border-radius: 20px;" alt="" id="output">
+                            </td>
+                            <td>@detail.Quantity</td>
+                            <td>@detail.Product.Price?.ToString("C")</td>
+                        </tr>
+                        count++;
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+

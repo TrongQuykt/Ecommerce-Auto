@@ -1,0 +1,142 @@
+﻿@{
+    ViewData["Title"] = "Trang chủ Admin";
+    var user = ViewBag.User;
+    var DoanhThu = ViewBag.DoanhThu;
+    var Sanpham = ViewBag.Sanpham;
+    var DonHuy = ViewBag.DonHuy;
+    var TongDonHang = ViewBag.TongDonHang;
+    var MaGiamGia = ViewBag.MaGiamGia;
+    var SoLuongLoaiSanPham = ViewBag.SoLuongLoaiSanPham;
+    var SoLuongTaiKhoanQuanLy = ViewBag.SoLuongTaiKhoanQuanLy;
+    var SoLuongDonHangHoanThanh = ViewBag.SoLuongDonHangHoanThanh;
+
+}
+<sytle>
+    <style>
+        .grid-margin {
+            overflow-y: auto;
+            max-height: 500px; /* hoặc bạn có thể thiết lập kích thước bạn muốn */
+        }
+    </style>
+</sytle>
+<div class="page-header">
+    <h3 class="page-title">
+        <span class="page-title-icon bg-gradient-primary text-white me-2">
+            <i class="mdi mdi-home"></i>
+        </span> Dashboard
+    </h3>
+</div>
+<div class="row">
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-danger card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Tổng Doanh Thu <i class="mdi mdi-chart-line mdi-24px float-right"></i>
+                </h4>
+                <h2 class="mb-5">@string.Format("{0:N0}", DoanhThu) VNĐ</h2>
+                <h6 class="card-text">Tăng 60%</h6>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-danger card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                   Tổng Đơn Hàng <i class="mdi mdi-bookmark-outline mdi-24px float-right"></i>
+                </h4>
+                <h2 class="mb-5">@TongDonHang</h2>
+                <h6 class="card-text">Giảm 10%</h6>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-danger card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Đơn Hàng Hủy <i class="mdi mdi-diamond mdi-24px float-right"></i>
+                </h4>
+                <h2 class="mb-5">@DonHuy</h2>
+                <h6 class="card-text">Giảm 5%</h6>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-info  card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Số Lượng Khách Hàng <i class="mdi mdi-account menu-icon"></i>
+                </h4>
+                <h2 class="mb-5">@user</h2>
+                <h6 class="card-text">Tăng 15%</h6>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-info  card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Số Lượng Mã Giảm Giá <i class="mdi mdi-ticket-percent menu-icon"></i>
+                </h4>
+                <h2 class="mb-5">@MaGiamGia</h2>
+                @* <h6 class="card-text">Tăng 0%</h6> *@
+            </div>
+        </div>
+    </div> 
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-info   card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Số Lượng Sản Phẩm <i class="mdi mdi-package-variant menu-icon"></i>
+                </h4>
+                <h2 class="mb-5">@Sanpham</h2>
+                @* <h6 class="card-text">Tăng 0%</h6> *@
+            </div>
+        </div>
+    </div>
+    <!-- Bổ sung số lượng loại sản phẩm -->
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-primary  card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Số Lượng Loại Sản Phẩm <i class="mdi mdi-package-variant menu-icon"></i>
+                </h4>
+                <h2 class="mb-5">@SoLuongLoaiSanPham</h2>
+                @* <h6 class="card-text">Tăng 0%</h6> *@
+            </div>
+        </div>
+    </div>
+    <!-- Bổ sung số lượng tài khoản quản lý -->
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-primary  card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Số Lượng Tài Khoản Quản Lý <i class="mdi mdi-package-variant menu-icon"></i>
+                </h4>
+                <h2 class="mb-5">@SoLuongTaiKhoanQuanLy</h2>
+                @* <h6 class="card-text">Tăng 0%</h6> *@
+            </div>
+        </div>
+    </div>
+    <!-- Bổ sung số lượng đơn hàng đã hoàn thành -->
+    <div class="col-md-4 stretch-card grid-margin">
+        <div class="card bg-gradient-primary  card-img-holder text-white">
+            <div class="card-body">
+                <img src="~/LayoutAdmin/assets/images/dashboard/circle.svg" class="card-img-absolute" alt="circle-image" />
+                <h4 class="font-weight-normal mb-3">
+                    Số Lượng Đơn Hàng Hoàn Thành <i class="mdi mdi-package-variant menu-icon"></i>
+                </h4>
+                <h2 class="mb-5">@SoLuongDonHangHoanThanh</h2>
+                <h6 class="card-text">Tăng 20%</h6>
+            </div>
+        </div>
+    </div>
+</div>
+

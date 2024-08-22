@@ -1,0 +1,149 @@
+﻿@model IEnumerable<StoreCars.Models.Oder>
+
+@{
+    ViewData["Title"] = "Index";
+    var DonHuy = ViewBag.DonHuy;
+    var TongDonHang = ViewBag.TongDonHang;
+    var TongTien = ViewBag.TongTien;
+    var tongdonhoanthanh = ViewBag.SoLuongDonHangHoanThanh;
+}
+<div class="page-header">
+    <h3 style="font-family:Helvetica;" class="page-title"> QUẢN LÝ DOANH THU </h3>
+    <nav aria-label="breadcrumb">
+
+    </nav>
+</div>
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <form asp-action="Search" method="post">
+            <div class="row">
+                <div class="col-lg-3 ">
+                    <label>Từ ngày</label>
+                    <input type="datetime-local" class="form-control" name="TuNgay" id="TuNgay" placeholder="" required>
+                </div>
+                <div class="col-lg-3 ">
+                    <label>Đến ngày</label>
+                    <input type="datetime-local" class="form-control" name="DenNgay" id="DenNgay" placeholder="" required>
+                </div>
+                <div class="col-lg-3 ">
+                        <button type="submit" class="btn btn-primary me-2" style="background: #00FF33; border: none">Tìm kiếm</button>
+                </div> 
+                <div class="col-lg-3 ">
+                        <button type="submit" class="btn btn-danger mb-2" formaction="/Admin/Revenue/ExportExcelNgay">Xuất Excel Theo Ngày</button>
+                        <a asp-action="ExportExcel" class="btn btn-danger mb-2">Xuất tổng Excel</a>
+                </div>
+            </div>
+            </form>
+            <hr>
+            <div class="row">
+                <div class="col-lg-3 grid-margin stretch-card">
+                    <h4 style="white-space: nowrap;">Doanh Thu : @string.Format("{0:N0}", TongTien) VNĐ</h4>
+                </div>
+                <div class="col-lg-3 grid-margin stretch-card">
+                    <h4>Tổng đơn hàng : @TongDonHang</h4>
+                </div>
+                <div class="col-lg-3 grid-margin stretch-card">
+                    <h4>Đơn hàng hủy : @DonHuy</h4>
+                </div>
+                <div class="col-lg-3 grid-margin stretch-card">
+                    <h4>Đơn hoàn thành : @tongdonhoanthanh</h4>
+                </div>
+            </div>
+            <hr />
+@*             <div class="d-flex justify-content-between">
+
+                <div class="ml-auto">
+                    <a asp-action="ExportExcel" class="btn btn-danger mb-2">Xuất file Excel</a>
+                </div>
+            </div> *@
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            STT
+                        </th>
+                        <th>
+                            Người đặt
+                        </th>
+                        <th>
+                            Email
+                        </th>
+                        <th>
+                            SĐT
+                        </th>
+                        <th>
+                            Tổng tiền
+                        </th>
+
+                        <th>
+                            Ngày đặt
+                        </th>
+
+                        @* <th>
+                            Địa chỉ giao hàng
+                        </th> *@
+
+                        <th>
+                            Trạng thái
+                        </th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int count = 1;
+                    }
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @count
+                            </td>
+                            <td>
+                                @item.Account?.FullName
+                            </td>
+                            <td>
+                                @item.Account?.Email
+                            </td>
+                            <td>
+                                @item.Account?.Phone
+                            </td>
+                            <td>
+                                @item.Total?.ToString("C")
+                            </td>
+
+                            <td>
+                                @item?.CreateDay
+                            </td>
+                           @*  <td>
+                                @item?.Account?.Addresses.FirstOrDefault()?.Street ,
+                                @item?.Account?.Addresses.FirstOrDefault()?.Ward,
+                                @item?.Account?.Addresses.FirstOrDefault()?.District,
+                                @item?.Account?.Addresses.FirstOrDefault()?.City
+                            </td> *@
+                            @if (item?.Status == 2)
+                            {
+                                <td> Chờ cửa hàng xác nhận</td>
+                            }
+                            @if (item?.Status == 3)
+                            {
+                                <td>Khách chưa xác nhận </td>
+                            }
+                            @if (item?.Status == 4)
+                            {
+                                <td>Đã hoàn thành </td>
+                            }
+                            @if (item?.Status == 5)
+                            {
+                                <td>Đã Hủy </td>
+                            }
+                        </tr>
+                        count++;
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

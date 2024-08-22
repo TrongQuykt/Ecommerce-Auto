@@ -1,0 +1,525 @@
+﻿@model Account
+@{
+    var AvartarClaim = User.Claims.FirstOrDefault(c => c.Type == "Avartar");
+    var Avartar = "";
+    if (AvartarClaim != null)
+    { Avartar = AvartarClaim.Value; }
+    var Addresses = ViewBag.Addresses;
+    ViewData["Title"] = "Profile";
+    var DonHang = ViewBag.Donhang as List<Oder>;
+}
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+<style>
+    body {
+        margin-top: 20px;
+        color: #1a202c;
+        text-align: left;
+        background-color: #e2e8f0;
+    }
+
+    .main-body {
+        padding: 15px;
+        margin-top: 150px;
+    }
+
+    .card {
+        box-shadow: 0 1px 3px 0 rgba(0,0,0,.1), 0 1px 2px 0 rgba(0,0,0,.06);
+    }
+
+    .card {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        min-width: 0;
+        word-wrap: break-word;
+        background-color: #fff;
+        background-clip: border-box;
+        border: 0 solid rgba(0,0,0,.125);
+        border-radius: .25rem;
+    }
+
+    .card-body {
+        flex: 1 1 auto;
+        min-height: 1px;
+        padding: 1rem;
+    }
+
+    .gutters-sm {
+        margin-right: -8px;
+        margin-left: -8px;
+    }
+
+        .gutters-sm > .col, .gutters-sm > [class*=col-] {
+            padding-right: 8px;
+            padding-left: 8px;
+        }
+
+    .mb-3, .my-3 {
+        margin-bottom: 1rem !important;
+    }
+
+    .bg-gray-300 {
+        background-color: #e2e8f0;
+    }
+
+    .h-100 {
+        height: 100% !important;
+    }
+
+    .shadow-none {
+        box-shadow: none !important;
+    }
+
+    .card {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .card-body {
+        padding: 20px;
+    }
+
+    .row {
+        margin-bottom: 10px;
+    }
+
+    .col-sm-1,
+    .col-sm-2,
+    .col-sm-2,
+    .col-sm-1,
+    .col-sm-2,
+    .col-sm-2,
+    .col-sm-2 {
+        border-right: 1px solid #eee;
+    }
+
+        .col-sm-1:last-child,
+        .col-sm-2:last-child,
+        .col-sm-2:last-child,
+        .col-sm-1:last-child,
+        .col-sm-2:last-child,
+        .col-sm-2:last-child,
+        .col-sm-2:last-child {
+            border-right: none;
+        }
+
+    h3 {
+        color: #333;
+    }
+
+    h5 {
+        font-family: 'Muli', sans-serif;
+        margin-bottom: 5px;
+    }
+
+    hr {
+        border-top: 1px solid #eee;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+</style>
+<div class="container">
+    <div class="main-body">
+
+        <!-- Breadcrumb -->
+        <div class="container-fluid bg-primary mb-5 wow fadeIn" data-wow-delay="0.1s" style="padding: 35px; background-color:white !important">
+            <div class="container">
+                <div class="row g-2">
+                    <h1 style="text-align:center">
+                        Trang cá nhân
+                    </h1>
+                </div>
+            </div>
+        </div>
+        <!-- /Breadcrumb -->
+
+        <div class="row gutters-sm">
+            <div class="col-md-4 mb-3">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="d-flex flex-column align-items-center text-center">
+                            @* <img @Url.Content("~/contents/Images/User/" + @Model.Avartar)  class="rounded-circle" width="250"> *@
+                            @if (!string.IsNullOrEmpty(ViewBag.AvatarPath))
+                            {
+                                <img src="@ViewBag.AvatarPath" alt="Avatar"  style="width=350px; height: 350px">
+                            }
+                            <div class="mt-3">
+                                <h4>@Model.FullName</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8" style="border: 2px solid #000; border-radius: 10px">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <div class="row">
+                            <h4 style="text-align:center">Thông tin cá nhân</h4>
+                            <hr />
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Họ tên:</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.FullName
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Email:</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.Email
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-3">
+                                <h6 class="mb-0">Phone:</h6>
+                            </div>
+                            <div class="col-sm-9 text-secondary">
+                                @Model.Phone
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-sm-12 text-end">
+                                <a class="btn rounded-pill py-sm-3 px-sm-5 ms-3" asp-action="EditProfile" style="background: #FFFF00">Sửa thông tin</a>
+                            </div>
+                        </div>
+                        <hr>
+                        <h4 style="text-align:center">Danh sách địa chỉ</h4>
+                        <hr />
+                        @foreach (var item in Addresses)
+                        {
+                            <div class="row">
+                                <div class="col-sm-3">
+                                    <h6 class="mb-0">Địa chỉ: </h6>
+                                </div>
+                                <div class="col-sm-6 text-secondary">
+                                    @item.Street
+                                    @item.Ward
+                                    @item.District
+                                    @item.City
+                                    @item.Country
+                                </div>
+                                <div class="col-sm-3">
+
+                                    <button onclick="getaddres(@item.AddressId)" class="action-icon"
+                                            style="border:none; outline:none;">
+                                        <i class="fas fa-edit"
+                                           style="color:#ffd83b;font-size:25px;"></i>
+                                    </button>
+                                    <button onclick="getaddres1(@item.AddressId)" class="action-icon"
+                                            style="border:none; outline:none;">
+                                        <i class="fas fa-trash"
+                                           style="color:#e75555;font-size:25px;"></i>
+                                    </button>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12 text-end">
+                                    <a class="btn btn-primary rounded-pill py-sm-3 px-sm-5" data-toggle="modal" data-target="#myModal">Thêm địa chỉ</a>
+                                </div>
+                            </div>
+                            <hr>
+                        }
+                    </div>
+                </div>
+            </div>
+@*             <div class="col-md-24" style="border: 2px solid #000; margin-top: 10px">
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <h3 style="text-align:center;margin-bottom:10px">Lịch sử mua hàng</h3>
+                        <div class="row" style="margin-bottom:10px">
+                            <div class="col-sm-1">
+                                <h5 class="mb-0">STT</h5>
+                            </div>
+                            <div class="col-sm-2">
+                                <h5 class="mb-0">Họ tên</h5>
+                            </div>
+                            <div class="col-sm-2">
+                                <h5 class="mb-0">Địa chỉ giao hàng</h5>
+                            </div>
+                            <div class="col-sm-1">
+                                <h5 class="mb-0" style="white-space: nowrap;">Ngày đặt</h5>
+                            </div>
+                            <div class="col-sm-2">
+                                <h5 class="mb-0">Chi tiết sản phẩm</h5>
+                            </div>
+                            <div class="col-sm-2">
+                                <h5 class="mb-0">Tổng tiền</h5>
+                            </div>
+                            <div class="col-sm-2">
+                                <h5 class="mb-0">Trạng thái</h5>
+                            </div>
+                        </div>
+                        @{
+                            int stt = 1;
+
+                        }
+                        @foreach (var item in DonHang)
+                        {
+                            <div class="row" style="padding:5px">
+                                <div class="col-sm-1">
+                                    <h5 class="mb-0">@stt</h5>
+                                </div>
+                                <div class="col-sm-2">
+                                    <h5 class="mb-0">@item.Account.FullName</h5>
+                                </div>
+                                <div class="col-sm-2">
+                                    <h5 class="mb-0">
+                                        @item.Account.Addresses.FirstOrDefault().Street
+                                        @item.Account.Addresses.FirstOrDefault().Ward
+                                        @item.Account.Addresses.FirstOrDefault().District
+                                        @item.Account.Addresses.FirstOrDefault().City
+                                        @item.Account.Addresses.FirstOrDefault().Country
+                                    </h5>
+                                </div>
+                                <div class="col-sm-1">
+                                    <h5 class="mb-0">@item.CreateDay</h5>
+                                </div>
+                                <div class="col-sm-2">
+                                    @{
+                                        int ssp = 1;
+                                    }
+                                    @foreach (var item1 in item.OderItems)
+                                    {
+                                        <h5 class="mb-0" style="font-family: 'Muli'; color:#000 !important;">
+                                            @ssp.  @item1.Product.Name
+                                        </h5>
+                                        ssp++;
+
+                                    }
+                                </div>
+                                <div class="col-sm-2">
+                                    <h5 class="mb-0">
+                                        @string.Format("{0:N0}", @item.Total) VNĐ
+                                    </h5>
+                                </div>
+                                @if (item.Status == 2)
+                                {
+                                    <div class="col-sm-2">
+                                        <h5 class="mb-0" style="background: #FFFF00; text-align: center; border-radius: 10px">Chờ xác nhận</h5>
+                                        <a class="btn rounded-pill py-sm-2 px-sm-4 ms-1 text-white" asp-route-id="@item.OdersId" asp-action="CanOrderby" style="background: #CC0000; margin-top: 5px">Hủy đơn</a>
+                                    </div>
+                                }@if (item.Status == 3)
+                                {
+                                    <div class="col-sm-2">
+                                        <h5 class="mb-0" style="background: #00CCFF; text-align: center; border-radius: 10px">Đang vận chuyển</h5>
+                                    </div>
+                                }@if (item.Status == 4)
+                                {
+                                    <div class="col-sm-2">
+                                        <h5 class="mb-0" style="background: #33FF33; text-align: center; border-radius: 10px">Đã nhận</h5>
+                                    </div>
+                                }@if (item.Status == 5)
+                                {
+                                    <div class="col-sm-2">
+                                        <h5 class="mb-0" style="background: #CC0000; text-align: center; ; border-radius: 10px">Đã hủy </h5>
+                                    </div>
+                                }
+                                <hr />
+                            </div>
+                            stt++;
+                        }
+
+                    </div>
+                </div>
+            </div> *@
+        </div>
+    </div>
+
+</div>
+<style>
+    .custom-form {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .custom-input {
+        border-radius: 25px;
+        padding: 12px 20px;
+    }
+
+    .custom-hr {
+        border-color: #ddd;
+    }
+
+    .custom-btn {
+        border-radius: 25px;
+        padding: 10px 20px;
+        margin-right: 10px;
+    }
+
+    .modal-footer {
+        border-top: none;
+    }
+
+</style>
+<!-- The Modal -->
+<div class="modal" id="myModal">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="Create" class="custom-form">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title" style="text-align: center">Thêm địa chỉ</h4>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <div class="form-group">
+                        <input class="form-control form-control-lg custom-input" name="street" placeholder="Tên đường" required>
+                    </div>
+                    <hr class="custom-hr" />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg custom-input" name="ward" placeholder="Phường" required>
+                    </div>
+                    <hr class="custom-hr" />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg custom-input" name="district" placeholder="Quận" required>
+                    </div>
+                    <hr class="custom-hr" />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg custom-input" name="city" placeholder="Thành phố" required>
+                    </div>
+                    <hr class="custom-hr" />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg custom-input" name="country" placeholder="Quốc gia">
+                    </div>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary custom-btn">Thêm</button>
+                    <button type="button" class="btn btn-danger custom-btn" data-dismiss="modal">Đóng</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="myModalEdit">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="Edit">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Thêm địa chỉ</h4>
+                    <button onclick="closeModal()" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <input type="hidden" name="addresid" id="addresid" />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg" name="streest" id="streest" placeholder="Tên đường" required>
+                    </div>
+                    <hr />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg" name="ward" id="ward" placeholder="Phường" required>
+                    </div>
+                    <hr />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg" name="distrist" id="distrist" placeholder="Quận" required>
+                    </div>
+                    <hr />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg" name="city" id="city" placeholder="Thành phố" required>
+                    </div>
+                    <hr />
+                    <div class="form-group">
+                        <input class="form-control form-control-lg" name="contry" id="contry" placeholder="Quốc gia">
+                    </div>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Cập nhập</button>
+                    <button type="button" class="btn btn-danger" onclick="closeModal()">Đóng</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<div class="modal" id="myModalDelete">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-action="DeleteAd" method="post">
+                <!-- Modal Header -->
+                <div class="modal-header">
+                    <h4 class="modal-title">Thêm địa chỉ</h4>
+                    <button onclick="closeModalDelete()" class="close" data-dismiss="modal">&times;</button>
+                </div>
+
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <input type="hidden" name="addid" id="addid" />
+                    <h2>Bạn có chắc muốn xóa địa chỉ</h2>
+                    <h3 id="diachi"></h3>
+                </div>
+
+                <!-- Modal footer -->
+                <div class="modal-footer">
+                    <button type="submit" class="btn btn-primary">Xóa</button>
+                    <button type="button" class="btn btn-danger" onclick="closeModalDelete()">Đóng</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<script>
+    function getaddres(id) {
+        $('#myModalEdit').modal('show');
+        $.ajax({
+            url: '/Account/Edit',
+            type: 'GET',
+            data: { id: id },
+            success: function (data) {
+                $('#addresid').val(data.addressId);
+                $('#streest').val(data.street);
+                $('#ward').val(data.ward);
+                $('#distrist').val(data.district);
+                $('#city').val(data.city);
+                $('#contry').val(data.country);
+
+            },
+            error: function (xhr, status, error) {
+                // Xử lý lỗi
+                console.log(error); // In lỗi ra console (có thể thay đổi theo nhu cầu)
+            }
+        });
+    };
+
+
+    function closeModal() {
+        $('#myModalEdit').modal('hide');
+    };
+    function getaddres1(id) {
+        $('#myModalDelete').modal('show');
+        $.ajax({
+            url: '/Account/Edit',
+            type: 'GET',
+            data: { id: id },
+            success: function (data) {
+                $('#addid').val(data.addressId);
+                $('#diachi').text(data.street + ',' + data.ward + ',' + data.district + ',' + data.city + ',' + data.country);
+
+
+            },
+            error: function (xhr, status, error) {
+                // Xử lý lỗi
+                console.log(error); // In lỗi ra console (có thể thay đổi theo nhu cầu)
+            }
+        });
+    };
+    function closeModalDelete() {
+        $('#myModalDelete').modal('hide');
+    };
+</script>

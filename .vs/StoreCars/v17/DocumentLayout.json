@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\views\\revenue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\views\\revenue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\models\\oder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\models\\oder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\controllers\\revenuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\views\\payment\\transactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\views\\payment\\transactions.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\views\\partialview\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\views\\partialview\\_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\views\\partialview\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\views\\partialview\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\wwwroot\\layoutadmin\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\wwwroot\\layoutadmin\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\areas\\admin\\views\\partialview\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\areas\\admin\\views\\partialview\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\views\\partialview\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\views\\partialview\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|c:\\users\\admin\\desktop\\da web\\da weboto\\storecars\\storecars\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A58D85CD-6777-4DF7-80FF-C7C244CDB62E}|StoreCars\\StoreCars.csproj|solutionrelative:storecars\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 333,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreCars\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\appsettings.json",
+              "RelativeToolTip": "StoreCars\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T13:27:33.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Models\\Account.cs",
+              "RelativeToolTip": "StoreCars\\Models\\Account.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAkwB8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:27:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "StoreCars\\Views\\Order\\Index.cshtml",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T11:58:52.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:09:59.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transactions.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Payment\\Transactions.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Views\\Payment\\Transactions.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Payment\\Transactions.cshtml",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Views\\Payment\\Transactions.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T22:39:50.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:36:57.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "StoreCars\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJYBAAAAAAAAAAAmwLQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T01:56:51.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RevenueController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Controllers\\RevenueController.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Controllers\\RevenueController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Controllers\\RevenueController.cs",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Controllers\\RevenueController.cs",
+              "ViewState": "AQIAAB0BAAAAAAAAAAAAADsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T22:50:14.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Revenue\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Views\\Revenue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Revenue\\Index.cshtml",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Views\\Revenue\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T22:50:52.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "StoreCars\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+              "RelativeToolTip": "StoreCars\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+              "ViewState": "AQIAAFI4AAAAAAAAAAAAwHI4AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-30T18:11:14.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Oder.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Models\\Oder.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Models\\Oder.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Models\\Oder.cs",
+              "RelativeToolTip": "StoreCars\\Models\\Oder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:25:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T03:37:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\PartialView\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Views\\PartialView\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\PartialView\\_Footer.cshtml",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Views\\PartialView\\_Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoBAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T03:28:25.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\PartialView\\_Menu.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Views\\PartialView\\_Menu.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\PartialView\\_Menu.cshtml",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Views\\PartialView\\_Menu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T02:54:05.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\PartialView\\_Header.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Views\\PartialView\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\PartialView\\_Header.cshtml",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Views\\PartialView\\_Header.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T02:34:17.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "StoreCars\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T02:33:17.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Views\\PartialView\\_Header.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Views\\PartialView\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Views\\PartialView\\_Header.cshtml",
+              "RelativeToolTip": "StoreCars\\Views\\PartialView\\_Header.cshtml",
+              "ViewState": "AQIAAPoAAAAAAAAAAAAAAAwBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T01:33:53.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StoreCars\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T22:29:32.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreCars\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StoreCars\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T22:28:45.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "StoreCars\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "StoreCars\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAKQBAAAAAAAAAAAqwMMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:43:45.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

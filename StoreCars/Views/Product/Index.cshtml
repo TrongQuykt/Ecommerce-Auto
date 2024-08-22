@@ -1,0 +1,273 @@
+﻿@model IEnumerable<StoreCars.Models.Product>
+@{
+    ViewData["Title"] = "Sản phẩm";
+
+
+}
+<div class="container-fluid page-header">
+    <h1 class="display-3 text-uppercase text-white mb-3">Products</h1>
+    <div class="d-inline-flex text-white">
+        <h6 class="text-uppercase m-0"><a asp-action="Index" asp-controller="Home" class="text-white">Home</a>
+        <h6 class="text-body m-0 px-3">/</h6>
+        <h6 class="text-uppercase text-body m-0">Products</h6>
+    </div>
+</div>
+<style>
+    .page-header {
+        height: 750px;
+        margin-bottom: 90px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient(rgba(28, 30, 50, .9), rgba(28, 30, 50, .9)), url(../images/McLaren_Senna_GTR_Image_Front_Three_Quarters-13_crop-16x9.webp);
+        background-attachment: fixed;
+    }
+</style>
+<!-- Page Header Start -->
+
+
+<!-- Feature End -->
+<!-- Product Start -->
+<div class="container-fluid py-5">
+        <style>
+            .btn-outline-primary {
+                border: 2px solid #000;
+                border-radius: 16px;
+            }
+        </style>
+    <div class="row g-0 align-items-center justify-content-center wow fadeIn animated slideInUp">
+            <div class="col-lg-9 text-center">
+@*             <div class="input-group mb-3" style="max-width: 400px; margin: auto;">
+                <input type="text" class="form-control" placeholder="Tìm kiếm loại sản phẩm" id="searchInput">
+                <button class="btn btn-outline-secondary" type="button" id="searchButton">Tìm kiếm</button>
+            </div> *@
+                <div class="d-inline-flex justify-content-center mb-4">
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(3)">
+                    <img src="/images/logo/mercedes.png" alt="Mercedes Logo" width="30" height="30"> Mercedes
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(1)">
+                    <img src="/images/logo/mclaren.png" alt="McLaren Logo" width="30" height="30"> McLaren
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(2)">
+                    <img src="/images/logo/bmw.png" alt="BMW Logo" width="30" height="30"> BMW
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(5)">
+                    <img src="/images/logo/audi.png" alt="Audi Logo" width="30" height="30"> Audi
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(4)">
+                    <img src="/images/logo/rolls-royce.png" alt="Mazda Logo" width="30" height="30"> Roll Royce
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(6)">
+                    <img src="/images/logo/bugatti.png" alt="Mazda Logo" width="30" height="30"> Bugati
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(7)">
+                    <img src="/images/logo/ferrari.png" alt="Mazda Logo" width="30" height="30"> Ferrari
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(8)">
+                    <img src="/images/logo/ford.png" alt="Mazda Logo" width="30" height="30"> Ford
+                </button>
+                </div>
+                <div class="d-inline-flex justify-content-center mb-4">
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(9)">
+                    <img src="/images/logo/honda.png" alt="Mazda Logo" width="30" height="30"> Honda
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(10)">
+                    <img src="/images/logo/hyundai.png" alt="Mazda Logo" width="30" height="30"> Hyudai
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(11)">
+                    <img src="/images/logo/lamborghini.png" alt="Mazda Logo" width="30" height="30"> Lamborghini
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(12)">
+                    <img src="/images/logo/landrover.png" alt="Mazda Logo" width="30" height="30"> Land Rover
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(13)">
+                    <img src="/images/logo/lexus.png" alt="Mazda Logo" width="30" height="30"> Lexus
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(14)">
+                    <img src="/images/logo/mazda.png" alt="Mazda Logo" width="30" height="30"> Mazda
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(15)">
+                    <img src="/images/logo/nissan.png" alt="Mazda Logo" width="30" height="30"> Nissan
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(16)">
+                    <img src="/images/logo/toyota.png" alt="Mazda Logo" width="30" height="30"> Toyota
+                </button>
+                </div>
+                <div class="d-inline-flex justify-content-center mb-4">
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(17)">
+                    <img src="/images/logo/vinfast.png" alt="Mazda Logo" width="30" height="30"> Vinfast
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(18)">
+                    <img src="/images/logo/cadillac.png" alt="Mazda Logo" width="30" height="30"> Cadillac
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(19)">
+                    <img src="/images/logo/chevrolet.png" alt="Mazda Logo" width="30" height="30"> Chevrolet
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(20)">
+                    <img src="/images/logo/bentley.png" alt="Mazda Logo" width="30" height="30"> Bentley
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(21)">
+                    <img src="/images/logo/gmc.png" alt="Mazda Logo" width="30" height="30"> GMC
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(22)">
+                    <img src="/images/logo/jeep.png" alt="Mazda Logo" width="30" height="30"> Jeep
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(23)">
+                    <img src="/images/logo/kia.png" alt="Mazda Logo" width="30" height="30"> Kia
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(24)">
+                    <img src="/images/logo/maserati.png" alt="Mazda Logo" width="30" height="30"> Maserati
+                </button>
+                </div>
+            <div class="d-inline-flex justify-content-center mb-4">
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(25)">
+                    <img src="/images/logo/mini.png" alt="Mazda Logo" width="30" height="30"> Mini
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(26)">
+                    <img src="/images/logo/mitsubishi.png" alt="Mazda Logo" width="30" height="30"> Mitsubishi
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(28)">
+                    <img src="/images/logo/porsche.png" alt="Mazda Logo" width="30" height="30"> Porsche
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(29)">
+                    <img src="/images/logo/pagani.png" alt="Mazda Logo" width="30" height="30"> Pagani
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(30)">
+                    <img src="/images/logo/peugeot.png" alt="Mazda Logo" width="30" height="30"> Peugeot
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(31)">
+                    <img src="/images/logo/subaru.png" alt="Mazda Logo" width="30" height="30"> Subaru
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(32)">
+                    <img src="/images/logo/suzuki.png" alt="Mazda Logo" width="30" height="30"> Suzuki
+                </button>
+                <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(33)">
+                    <img src="/images/logo/vokjswagen.png" alt="Mazda Logo" width="30" height="30"> Vokjswagen
+                </button>
+                </div>
+                <div class="d-inline-flex justify-content-center mb-4">
+                    <button class="btn btn-outline-primary border-2 me-3" type="button" onclick="navigateToSanPham(34)">
+                        <img src="/images/logo/volvo.png" alt="Mazda Logo" width="30" height="30"> Volvo
+                    </button>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div style="text-align:center; margin-bottom: 30px">
+            <h1>Danh Sách Sản Phẩm </h1>
+        </div>
+        <div class="tab-content">
+            <div id="tab-1" class="tab-pane fade show p-0 active">
+                <div class="row g-2">
+                    @foreach (var item in Model)
+                    {
+                        <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="product-item rent-item mb-4">
+                                <div class="position-relative bg-light overflow-hidden">
+                                    <a asp-action="Details" asp-controller="Product" asp-route-id="@item.ProductId">
+                                        <img class="img-fluid w-100" src="@Url.Content("~/contents/Images/Product/" + item.Image)" style="width:300px;height:270px;" alt="Ảnh xe">
+                                    </a>
+                                    <div class="bg-secondary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">HOT</div>
+                                </div>
+                                <div class="text-center p-4">
+                                    <a class="d-block h5 mb-2" asp-action="Details" asp-controller="Product" asp-route-id="@item.ProductId">@item.Name</a>
+                                    <div class="d-flex justify-content-center mb-4">
+                                        <div class="px-2">
+                                            <i class="fa fa-car text-primary mr-1"></i>
+                                            <span>2023</span>
+                                        </div>
+                                        <div class="px-2 border-left border-right">
+                                            <i class="fa fa-cogs text-primary mr-1"></i>
+                                            <span>AUTO</span>
+                                        </div>
+                                        <div class="px-2">
+                                            <i class="fa fa-road text-primary mr-1"></i>
+                                            <span>120Km/h</span>
+                                        </div>
+                                    </div>
+                                    <span class="text-primary me-1"> @string.Format("{0:N0}", @item.Price) VNĐ</span>
+                                    <span class="text-body text-decoration-line-through">@string.Format("{0:N0}", @item.Price + 900000) VNĐ</span>
+                                </div>
+                                <div class="d-flex border-top">
+                                    @if ( item.ProductInventory?.QuantitySold >= item.ProductInventory?.Quantity )
+                                    {
+                                        <small class="w-100 text-center border-end py-2">
+                                            <a class="text-body"  ><i class="fa fa-shopping-cart text-primary me-2"></i>Hết hàng</a>
+                                        </small>
+                                    }
+                                    else
+                                    {
+                                        <small class="w-50 text-center border-end py-2">
+                                            <a class="text-body" asp-action="BuyNow" asp-controller="Order" asp-route-id="@item.ProductId"><i class="fa fa-shopping-cart text-primary me-2" style="padding: 10px 20px; background: #333"></i>Mua ngay</a>
+                                        </small>
+                                        <small class="w-50 text-center py-2">
+                                            <a class="text-body" href="@Url.Action("AddToCart", "Order", new{ id=item.ProductId, strURL=Context.Request.Path})"><i class="fa fa-shopping-bag text-primary me-2" style="padding: 10px 20px; background: #333"></i>Thêm giỏ hàng</a>
+                                        </small>
+                                    }
+                                </div>
+                            </div>
+                        </div>
+                    }  
+@*                     <div class="col-12 text-center wow fadeInUp" data-wow-delay="0.1s">
+                        <a class="btn btn-primary rounded-pill py-3 px-5" href="">Xem thêm</a>
+                    </div> *@
+                </div>
+            </div>
+        </div>
+</div>
+<style>
+    /* Add some styles to improve the look */
+    .product-item {
+        transition: transform .2s; /* Animation */
+    }
+
+        .product-item:hover {
+            transform: scale(1.05); /* Zoom effect on hover */
+        }
+
+    .new-arrival-badge {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: #ff6666;
+        color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        font-size: 0.9em;
+    }
+
+    .product-img {
+        height: 200px; /* Fixed height for images */
+    }
+
+    .product-name {
+        min-height: 50px; /* Ensure uniform name container height */
+    }
+
+    .buy-now, .add-to-cart {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+
+    .buy-now {
+        background-color: #0d6efd; /* Bootstrap primary color */
+        color: white;
+    }
+
+    .add-to-cart {
+        background-color: #6c757d; /* Bootstrap secondary color */
+        color: white;
+    }
+
+    .product-price {
+        font-weight: bold;
+    }
+</style>
+<!-- Product End -->
+<script>
+    function navigateToSanPham(id) {
+        window.location.href = '/Product/TypeList/' + id; // Thay đổi đường dẫn theo đúng route của bạn
+    }
+</script>

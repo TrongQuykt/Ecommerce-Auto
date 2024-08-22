@@ -1,0 +1,158 @@
+﻿@model Product
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+<style>
+    .icon-hover:hover {
+        border-color: #3b71ca !important;
+        background-color: white !important;
+        color: #3b71ca !important;
+    }
+
+    .icon-hover:hover i {
+        color: #3b71ca !important;
+    }
+</style>
+
+<!-- Page Header Start -->
+<div class="container-fluid page-header wow fadeIn" data-wow-delay="0.1s">
+    <div class="container">
+        <h1 class="display-3 mb-3 animated slideInDown">Chi tiết sản phẩm</h1>
+        <nav aria-label="breadcrumb animated slideInDown">
+            <ol class="breadcrumb mb-0">
+                <li class="breadcrumb-item"><a class="text-body" href="#">Home</a></li>
+                <li class="breadcrumb-item"><a class="text-body" href="#">Pages</a></li>
+                <li class="breadcrumb-item text-dark active" aria-current="page">Details</li>
+            </ol>
+        </nav>
+    </div>
+</div>
+<!-- Page Header End -->
+<div class="d-flex justify-content-center">
+    <div class="col-10" style="margin-top: 50px;">
+        <div class="product-item">
+    <!-- content -->
+            <section class="py-5">
+                <div class="container">
+                    <div class="row gx-5">
+                        <aside class="col-lg-6">
+                            <div class="border rounded-4 mb-3 d-flex justify-content-center">
+                                <a data-fancybox="gallery" class="rounded-4" data-src="@Url.Content("~/contents/Images/Product/" + Model.Image)" href="javascript:;">
+                                    <img style="max-width: 100%; max-height: 100vh; margin: auto;" class="rounded-4 fit" src="@Url.Content("~/contents/Images/Product/" + Model.Image)" />
+                                </a>
+                            </div>
+                            <div class="d-flex justify-content-center mb-3">
+                                <a data-fancybox="gallery" data-src="@Url.Content("~/contents/Images/Product/" + Model.Image1)" href="javascript:;" class="border mx-1 rounded-2 item-thumb">
+                                    <img width="60" height="60" class="rounded-2" src="@Url.Content("~/contents/Images/Product/" + Model.Image1)" onclick="jumpToImage('@Url.Content("~/contents/Images/Product/" + Model.Image1)')" />
+                                </a>
+                                <a data-fancybox="gallery" data-src="@Url.Content("~/contents/Images/Product/" + Model.Image2)" href="javascript:;" class="border mx-1 rounded-2 item-thumb">
+                                    <img width="60" height="60" class="rounded-2" src="@Url.Content("~/contents/Images/Product/" + Model.Image2)" onclick="jumpToImage('@Url.Content("~/contents/Images/Product/" + Model.Image2)')" />
+                                </a>
+                                <a data-fancybox="gallery" data-src="@Url.Content("~/contents/Images/Product/" + Model.Image3)" href="javascript:;" class="border mx-1 rounded-2 item-thumb">
+                                    <img width="60" height="60" class="rounded-2" src="@Url.Content("~/contents/Images/Product/" + Model.Image3)" onclick="jumpToImage('@Url.Content("~/contents/Images/Product/" + Model.Image3)')" />
+                                </a>
+                            </div>
+                        </aside>
+                        <main class="col-lg-6">
+                            <div class="ps-lg-3">
+                                <h4 class="title text-dark">
+                                    @Model.Name
+                                </h4>
+                                <div class="d-flex flex-row my-3">
+                                    <div class="text-warning mb-1 me-2">
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <i class="fa fa-star"></i>
+                                        <span class="ms-1">
+                                            5.0
+                                        </span>
+                                    </div>
+                                    <div>
+                                    <span class="text-muted"><i class="fas fa-shopping-basket fa-sm mx-1"></i>154 Đơn hàng</span>
+                                        <span class="text-success ms-2">đã bán</span>
+                                    </div>
+                                </div>
+
+                                <div class="mb-3">
+                                    <span class="text-body text-decoration-line-through">@string.Format("{0:N0}", Model.Price + 99000000) VNĐ</span>
+                                    <span class="h5"> @string.Format("{0:N0}", Model.Price) VNĐ</span>
+                                    <span class="text-muted"></span>
+                                </div>
+                                <p>Mô tả: </p>
+                                <p>
+                                    @Model.Description
+                                </p>
+                                <hr />
+                                <div class="row mb-4">
+                                    <div class="col-md-4 col-6 mb-3">
+                                        <label class="mb-2 d-block">Số lượng:</label>
+                                        <div class="input-group mb-3" style="width: 140px;">
+                                            <button onclick="decreaseQuantity()" class="btn btn-white border px-3" type="button" id="button-addon1" data-mdb-ripple-color="dark">
+                                                <i class="fas fa-minus"></i>
+                                            </button>
+                                            <input type="text" class="form-control text-center border" id="quantity" name="quantity" value="1" min="1" max="10" step="1" />
+                                            <button onclick="increaseQuantity()" class="btn btn-white border px-3" type="button" id="button-addon2" data-mdb-ripple-color="dark">
+                                                <i class="fas fa-plus"></i>
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                                @if (Model.ProductInventory?.QuantitySold >= Model.ProductInventory?.Quantity)
+                                {
+                                    <a class="btn btn-primary rounded-pill py-sm-3 px-sm-5"> Hết hàng </a>
+                                }
+                                else
+                                {
+                                    <a href="@Url.Action("AddToCart", "Order", new{ id=Model.ProductId, strURL=Context.Request.Path})" class="btn rounded-pill py-sm-3 px-sm-5 ms-3" style="border: 3px solid #000"> <i class="me-1 fa fa-shopping-basket"></i> Thêm giỏ hàng </a>
+                                    <a asp-action="BuyNow" asp-controller="Order" asp-route-id="@Model.ProductId" class="btn btn-primary rounded-pill py-sm-3 px-sm-5"> Mua ngay </a>
+                                    
+
+                                }
+                            </div>
+                        </main>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+
+<script>
+    function decreaseQuantity() {
+        var quantityInput = document.getElementById('quantity');
+        var currentQuantity = parseInt(quantityInput.value);
+        if (currentQuantity > 1) {
+            quantityInput.value = currentQuantity - 1;
+        }
+    }
+
+    function increaseQuantity() {
+        var quantityInput = document.getElementById('quantity');
+        var currentQuantity = parseInt(quantityInput.value);
+        var maxQuantity = parseInt(quantityInput.max);
+        if (currentQuantity < maxQuantity) {
+            quantityInput.value = currentQuantity + 1;
+        }
+    }
+    function jumpToImage(imageUrl) {
+        $.fancybox.open({
+            src: imageUrl,
+            type: 'image',
+            thumbs: {
+                autoStart: true, // Tự động bắt đầu hiển thị các thumbnail
+                axis: 'x' // Chiều di chuyển của thumbnail (có thể là 'x' hoặc 'y')
+            },
+            buttons: ['slideShow', 'fullScreen', 'download', 'thumbs', 'close'], // Hiển thị các nút điều hướng và chức năng
+            image: {
+                protect: true // Bảo vệ ảnh khỏi bị lưu hoặc sao chép
+            },
+            caption: function (instance, item) {
+                // Hiển thị tiêu đề hoặc chú thích của ảnh
+                return $(this).attr('title') + '<br><small>' + $(this).attr('alt') + '</small>';
+            }
+        });
+    }
+</script>

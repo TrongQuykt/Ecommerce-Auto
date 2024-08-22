@@ -1,0 +1,2921 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\StoreCars.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StoreCars.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\.gitignore",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\LICENSE",
+      "PackagePath": "staticwebassets\\LayoutAdmin"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\README.md",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\fonts\\Ubuntu\\Ubuntu-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\dashboard\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces-clipart\\pic-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\istockphoto-693203680-612x612 (1).png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\istockphoto-693203680-612x612 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\istockphoto-693203680-612x612.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\istockphoto-693203680-612x612.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\blue.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\dark.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\dark.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\flag.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\green.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\green.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\jsgrid-icons.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\red.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\red.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\images\\sprites\\yellow.png",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\images\\sprites\\yellow.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\chart.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\misc.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\todo.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todo.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\js\\todolist.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\js\\todolist.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\_widget-grid.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\_widget-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_preview.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_preview.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\components\\_todo-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\mixins\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\css\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\js\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\assets\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\gulp-tasks\\inject.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\inject.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\gulp-tasks\\serve.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\serve.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\gulp-tasks\\vendors.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulp-tasks\\vendors.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\gulpfile.js",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\index.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\package.json",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\samples\\blank-page.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\blank-page.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\samples\\error-404.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-404.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\samples\\error-500.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\error-500.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\LayoutAdmin\\screenshot.jpg",
+      "PackagePath": "staticwebassets\\LayoutAdmin\\screenshot.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\User\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\css\\style.css",
+      "PackagePath": "staticwebassets\\User\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\js\\main.js",
+      "PackagePath": "staticwebassets\\User\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\User\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\User\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\User\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\User\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\User\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\User\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\User\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\User\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\User\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\User\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\User\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Banner Video.mp4",
+      "PackagePath": "staticwebassets\\images\\Banner Video.mp4"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Default.jpg",
+      "PackagePath": "staticwebassets\\images\\Default.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\McLaren_Senna_GTR_Image_Front_Three_Quarters-13_crop-16x9 (1).webp",
+      "PackagePath": "staticwebassets\\images\\Final Images\\McLaren_Senna_GTR_Image_Front_Three_Quarters-13_crop-16x9 (1).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\2020.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\2020.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\2022.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\2022.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\2023.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\2023.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\Audi Q7.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\Audi Q7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\Audi-S8.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\Audi-S8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\audi a1.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\audi a1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\audi a6.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\audi a6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\audi a7.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\audi a7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\audi rs4.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\audi rs4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\audi rs6.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\audi rs6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\audi s4.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\audi s4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\audi s7.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\audi s7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\car-rent-3.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\car-rent-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\audi\\car-rent-6.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\audi\\car-rent-6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bentley\\bentley continental gt.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bentley\\bentley continental gt.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bentley\\bentley flying spur.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bentley\\bentley flying spur.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bentley\\mau-xe-bentley-bentayga-black.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bentley\\mau-xe-bentley-bentayga-black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bentley\\mau-xe-bentley-bentayga-cam.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bentley\\mau-xe-bentley-bentayga-cam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bentley\\mau-xe-bentley-continental-gt-black.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bentley\\mau-xe-bentley-continental-gt-black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bentley\\ngoai-that-bentleyANHDAIDIEN.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bentley\\ngoai-that-bentleyANHDAIDIEN.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m2.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m3 bạc.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m3 bạc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m3 kim.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m3 kim.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m3 trắng.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m3 trắng.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m3 xanh dương.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m3 xanh dương.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m3 xanh lá.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m3 xanh lá.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m3 đen.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m3 đen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m3 đỏ.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m3 đỏ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m4 bạc.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m4 bạc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m4 trắng.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m4 trắng.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m4 vàng.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m4 vàng.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m4 xanh dương.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m4 xanh dương.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m4 xanh nhạt.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m4 xanh nhạt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m4 xanh đậm.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m4 xanh đậm.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\bmw m4 đỏ.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\bmw m4 đỏ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (2).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (3).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (4).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (4).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (5).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (5).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (6).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (7).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\cosySec (8).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\cosySec (8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bmw\\tải xuống.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bmw\\tải xuống.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bugati\\bugati chiron.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bugati\\bugati chiron.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\bugati\\bugati veyron.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\bugati\\bugati veyron.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\cadillac\\Cadillac XTS.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\cadillac\\Cadillac XTS.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\cadillac\\cadillac ct6.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\cadillac\\cadillac ct6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\cadillac\\cadillac escalade.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\cadillac\\cadillac escalade.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Aveo.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Aveo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Camaro.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Camaro.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Colorado.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Colorado.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Corvette Stingray C8.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Corvette Stingray C8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Equinox.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Equinox.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Malibu.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Malibu.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Tahoe.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Tahoe.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\Chevrolet Traverse.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\Chevrolet Traverse.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\chevrolet captiva.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\chevrolet captiva.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\chevrolet\\chevrolet impala.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\chevrolet\\chevrolet impala.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ferrari\\Ferrari 488 Pista.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ferrari\\Ferrari 488 Pista.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ferrari\\Ferrari F12 Berlinetta.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ferrari\\Ferrari F12 Berlinetta.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ferrari\\Ferrari Portofino.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ferrari\\Ferrari Portofino.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ferrari\\ferrari gtc4 lusso.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ferrari\\ferrari gtc4 lusso.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ford\\Ford Expedition.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ford\\Ford Expedition.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ford\\Ford Explorer.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ford\\Ford Explorer.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ford\\Ford F150.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ford\\Ford F150.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ford\\Ford Mustang.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ford\\Ford Mustang.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ford\\Ford Ranger Raptor.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ford\\Ford Ranger Raptor.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\ford\\ford taurus.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\ford\\ford taurus.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\gmc\\GMC Acadia Denali.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\gmc\\GMC Acadia Denali.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\gmc\\GMC Canyon.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\gmc\\GMC Canyon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\gmc\\GMC Sierra 2500HD.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\gmc\\GMC Sierra 2500HD.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\gmc\\GMC Sierra AT4.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\gmc\\GMC Sierra AT4.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\gmc\\GMC Sierra Denali HD 3500.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\gmc\\GMC Sierra Denali HD 3500.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\gmc\\GMC Yukon.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\gmc\\GMC Yukon.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\honda\\Honda Accord.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\honda\\Honda Accord.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\honda\\Honda CR – V.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\honda\\Honda CR – V.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\honda\\Honda Civic.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\honda\\Honda Civic.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\honda\\Honda Clarity Hybrid.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\honda\\Honda Clarity Hybrid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\honda\\Honda Ridgeline Sport.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\honda\\Honda Ridgeline Sport.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\honda\\honda birio.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\honda\\honda birio.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\honda\\honda passport.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\honda\\honda passport.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyudai Accent.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyudai Accent.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyudai Kona.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyudai Kona.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyundai Creta.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyundai Creta.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyundai Santa Cruz.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyundai Santa Cruz.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyundai Solati.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyundai Solati.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyundai Sonata.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyundai Sonata.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyundai Starex.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyundai Starex.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyundai Stargazer.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyundai Stargazer.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\hyudai\\Hyundai Tucson.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\hyudai\\Hyundai Tucson.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\jeep\\Jeep Cherokee.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\jeep\\Jeep Cherokee.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\jeep\\Jeep Compass.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\jeep\\Jeep Compass.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\jeep\\Jeep Gladiator.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\jeep\\Jeep Gladiator.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\jeep\\Jeep Grand Cherokee SRT.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\jeep\\Jeep Grand Cherokee SRT.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\jeep\\Jeep Grand Cherokee Trackhawk.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\jeep\\Jeep Grand Cherokee Trackhawk.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\jeep\\Jeep Renegade.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\jeep\\Jeep Renegade.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\KIA K5.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\KIA K5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\Kia Carniva.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\Kia Carniva.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\Kia Novo.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\Kia Novo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\Kia Optima.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\Kia Optima.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\Kia Seltos.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\Kia Seltos.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\Kia Sonet.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\Kia Sonet.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\Kia Sorento.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\Kia Sorento.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\kia\\Kia Telluride.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\kia\\Kia Telluride.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lamborghini\\Lamborghini Aventador.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lamborghini\\Lamborghini Aventador.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lamborghini\\Lamborghini Huracan Evo.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lamborghini\\Lamborghini Huracan Evo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lamborghini\\Lamborghini Sian.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lamborghini\\Lamborghini Sian.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lamborghini\\Lamborghini Urus.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lamborghini\\Lamborghini Urus.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lamborghini\\Lamborghini Veneno.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lamborghini\\Lamborghini Veneno.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\land rover\\Land Rover All New Range Rover Sport.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\land rover\\Land Rover All New Range Rover Sport.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\land rover\\Land Rover All New Range Rover.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\land rover\\Land Rover All New Range Rover.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\land rover\\Land Rover Defender.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\land rover\\Land Rover Defender.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\land rover\\Land Rover Discovery Sport.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\land rover\\Land Rover Discovery Sport.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\land rover\\Land Rover Discovery.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\land rover\\Land Rover Discovery.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus GS350.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus GS350.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus GX 460.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus GX 460.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus LC500.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus LC500.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus LS 500.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus LS 500.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus LX600.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus LX600.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus RX300.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus RX300.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus RX350.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus RX350.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\Lexus UX200.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\Lexus UX200.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\anh-dai-dien-lexus-ct200-tinbanxe.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\anh-dai-dien-lexus-ct200-tinbanxe.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\anh-dai-dien-lexus-lx-570-tinbanxe.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\anh-dai-dien-lexus-lx-570-tinbanxe.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\anh-dai-dien-lexus-nx300-tinbanxe.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\anh-dai-dien-lexus-nx300-tinbanxe.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\gia-xe-lexus-es-250-tinbanxe-10.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\gia-xe-lexus-es-250-tinbanxe-10.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\gia-xe-lexus-es-300-tinbanxe-1.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\gia-xe-lexus-es-300-tinbanxe-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\lexus-es-250.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\lexus-es-250.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\lexus-gx-460.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\lexus-gx-460.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\lexus-is-300-thumbnail-nav.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\lexus-is-300-thumbnail-nav.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\lexus-ls500-nav-thumb.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\lexus-ls500-nav-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\lexus-nx-350h-main-nav.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\lexus-nx-350h-main-nav.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\lexus\\lm500h-navigation.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\lexus\\lm500h-navigation.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\audi.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\audi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\bentley.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\bentley.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\bmw.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\bmw.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\bugatti.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\bugatti.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\cadillac.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\cadillac.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\chevrolet.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\chevrolet.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\ferrari.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\ferrari.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\ford.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\ford.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\gmc.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\gmc.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\honda.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\honda.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\hyundai.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\hyundai.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\jeep.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\jeep.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\kia.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\kia.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\lamborghini.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\lamborghini.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\landrover.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\landrover.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\lexus.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\lexus.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\maserati.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\maserati.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\mazda.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\mazda.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\mclaren.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\mclaren.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\mercedes.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\mercedes.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\mg.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\mg.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\mini.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\mini.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\mitsubishi.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\mitsubishi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\nissan.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\nissan.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\pagani.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\pagani.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\peugeot.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\peugeot.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\porsche.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\porsche.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\rolls-royce.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\rolls-royce.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\subaru.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\subaru.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\suzuki.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\suzuki.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\toyota.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\toyota.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\vinfast.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\vinfast.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\vokjswagen.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\vokjswagen.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\logo\\volvo.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\logo\\volvo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\maserati\\Maserati Ghibli.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\maserati\\Maserati Ghibli.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\maserati\\Maserati Levante.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\maserati\\Maserati Levante.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\maserati\\Maserati MC20.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\maserati\\Maserati MC20.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\maserati\\Maserati Quattroporte.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\maserati\\Maserati Quattroporte.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda 2.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda 2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda 3 Hatchback.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda 3 Hatchback.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda 3.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda 3.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda 6.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda 6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda BT50.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda BT50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda CX-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda CX-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda CX8.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda CX8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda CX9.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda CX9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda MX-5.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda MX-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mazda\\Mazda Mx-30.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mazda\\Mazda Mx-30.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren 650S Spider.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren 650S Spider.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren 720s Bacj.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren 720s Bacj.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren 720s cam.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren 720s cam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren 720s vàng.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren 720s vàng.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren 720s xanh dương.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren 720s xanh dương.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren 720s đen.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren 720s đen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren 720s đỏ.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren 720s đỏ.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mclaren\\Mclaren P1.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mclaren\\Mclaren P1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\E300_AMG.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\E300_AMG.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\G63.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\G63.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\GLB200_Den.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\GLB200_Den.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\GLC_300_Coupe.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\GLC_300_Coupe.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\GT53-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\GT53-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\GT53-2.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\GT53-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\S450-L-New.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\S450-L-New.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\iris-_1_.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\iris-_1_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\iris-_2_.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\iris-_2_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mercedes\\iris.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mercedes\\iris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mini\\MINI Countryman.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mini\\MINI Countryman.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mini\\Mini Cooper Clubman.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mini\\Mini Cooper Clubman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mini\\Mini Cooper Convertible.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mini\\Mini Cooper Convertible.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mini\\Mini Cooper S.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mini\\Mini Cooper S.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mitsubishi\\Mitsubishi Triton.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mitsubishi\\Mitsubishi Triton.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mitsubishi\\Mitsubishi Xpander Cross.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mitsubishi\\Mitsubishi Xpander Cross.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mitsubishi\\Mitsubishi Xpander.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mitsubishi\\Mitsubishi Xpander.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\mitsubishi\\blue.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\mitsubishi\\blue.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\nissan\\Nissan Almera.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\nissan\\Nissan Almera.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\nissan\\Nissan Magnite.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\nissan\\Nissan Magnite.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\nissan\\Nissan Navara.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\nissan\\Nissan Navara.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\nissan\\Nissan Sentra.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\nissan\\Nissan Sentra.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\nissan\\Nissan Teana.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\nissan\\Nissan Teana.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\pagani\\Pagani Huayra Dat.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\pagani\\Pagani Huayra Dat.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\pagani\\Pagani Huayra xanh nhạt.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\pagani\\Pagani Huayra xanh nhạt.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\pagani\\Pagani Huayra ánh hồng.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\pagani\\Pagani Huayra ánh hồng.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\pagani\\Pagani Huayra Đen.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\pagani\\Pagani Huayra Đen.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\pagani\\Pagani Huayra Đỏ.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\pagani\\Pagani Huayra Đỏ.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\pagani\\Pagani Zonda.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\pagani\\Pagani Zonda.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot 2008.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot 2008.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot 208.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot 208.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot 3008.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot 3008.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot 308.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot 308.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot 408.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot 408.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot 5008.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot 5008.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot 508.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot 508.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\peugeot\\Peugeot Landtrek.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\peugeot\\Peugeot Landtrek.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\porsche\\Porsche 718 Cayman.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\porsche\\Porsche 718 Cayman.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\porsche\\Porsche Cayenne.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\porsche\\Porsche Cayenne.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\porsche\\Porsche Macan.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\porsche\\Porsche Macan.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\porsche\\Porsche Panamera.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\porsche\\Porsche Panamera.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\porsche\\Porsche Taycan.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\porsche\\Porsche Taycan.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\G63.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\G63.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\Rolls Royce Cullinan.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\Rolls Royce Cullinan.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\Rolls Royce Dawn.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\Rolls Royce Dawn.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\Rolls Royce Ghost.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\Rolls Royce Ghost.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\Rolls Royce Phantom Drophead.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\Rolls Royce Phantom Drophead.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\cq5dam.web.1920 (2).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\cq5dam.web.1920 (2).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\cq5dam.web.1920 (3).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\cq5dam.web.1920 (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\cq5dam.web.1920.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\cq5dam.web.1920.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\cq5dam.web.828 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\cq5dam.web.828 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\roll royce\\cq5dam.web.828.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\roll royce\\cq5dam.web.828.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\subaru\\Subaru Ascent.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\subaru\\Subaru Ascent.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\subaru\\Subaru Forester.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\subaru\\Subaru Forester.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\subaru\\Subaru Impreza.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\subaru\\Subaru Impreza.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\subaru\\Subaru Outback.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\subaru\\Subaru Outback.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\suzuki\\Suzuki Celerio.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\suzuki\\Suzuki Celerio.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\suzuki\\Suzuki Ciaz.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\suzuki\\Suzuki Ciaz.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\suzuki\\Suzuki Ertiga.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\suzuki\\Suzuki Ertiga.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\suzuki\\Suzuki Swift.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\suzuki\\Suzuki Swift.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\suzuki\\Suzuki Vitara.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\suzuki\\Suzuki Vitara.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\suzuki\\Suzuki XL7.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\suzuki\\Suzuki XL7.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Alphard.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Alphard.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Avanza.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Avanza.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Camry.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Camry.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Corolla Altis.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Corolla Altis.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Fortuner.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Fortuner.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota GR Supra.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota GR Supra.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Granvia.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Granvia.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Harrier.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Harrier.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Hiace.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Hiace.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Hilux.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Hilux.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Innova.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Innova.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Land Cruiser Prado.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Land Cruiser Prado.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Raize.jpg",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Raize.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Rush.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Rush.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Sienna.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Sienna.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Veloz Cross.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Veloz Cross.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Wigo.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Wigo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Yaris Cross.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Yaris Cross.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\toyota\\Toyota Yaris.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\toyota\\Toyota Yaris.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\VinFast Lux A2.0.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\VinFast Lux A2.0.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\VinFast President.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\VinFast President.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\VinFast VF e34.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\VinFast VF e34.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\VinFast VF7.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\VinFast VF7.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\VinFast VF8.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\VinFast VF8.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\VinFast VF9.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\VinFast VF9.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\Vinfast LUX SA2.0.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\Vinfast LUX SA2.0.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\Vinfast VF5.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\Vinfast VF5.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\vinfast\\Vinfast VF6.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\vinfast\\Vinfast VF6.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\Volkswagen Passat.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\Volkswagen Passat.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\Volkswagen Polo.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\Volkswagen Polo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\Volkswagen Scirocco.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\Volkswagen Scirocco.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\Volkswagen T-Cross.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\Volkswagen T-Cross.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\Volkswagen Taos.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\Volkswagen Taos.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\Volkswagen Teramont.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\Volkswagen Teramont.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\Volkswagen Tiguan.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\Volkswagen Tiguan.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volkswagen\\virtus-silver.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volkswagen\\virtus-silver.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volvo\\Volvo V40.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volvo\\Volvo V40.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volvo\\Volvo V60.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volvo\\Volvo V60.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volvo\\Volvo V90.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volvo\\Volvo V90.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volvo\\Volvo XC40.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volvo\\Volvo XC40.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volvo\\Volvo XC60.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volvo\\Volvo XC60.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\Final Images\\volvo\\Volvo XC90.png",
+      "PackagePath": "staticwebassets\\images\\Final Images\\volvo\\Volvo XC90.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\McLaren_Senna_GTR_Image_Front_Three_Quarters-13_crop-16x9.webp",
+      "PackagePath": "staticwebassets\\images\\McLaren_Senna_GTR_Image_Front_Three_Quarters-13_crop-16x9.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\about.png",
+      "PackagePath": "staticwebassets\\images\\about.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\avatar1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\avatar2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\avatar4.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (1).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (1).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (2).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (2).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (3).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (3).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (4).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (4).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (5).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (5).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (6).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (6).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (7).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (7).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\bmw\\cosySec (8).webp",
+      "PackagePath": "staticwebassets\\images\\bmw\\cosySec (8).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\audi.png",
+      "PackagePath": "staticwebassets\\images\\logo\\audi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\bentley.png",
+      "PackagePath": "staticwebassets\\images\\logo\\bentley.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\bmw.png",
+      "PackagePath": "staticwebassets\\images\\logo\\bmw.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\bugatti.png",
+      "PackagePath": "staticwebassets\\images\\logo\\bugatti.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\cadillac.png",
+      "PackagePath": "staticwebassets\\images\\logo\\cadillac.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\chevrolet.png",
+      "PackagePath": "staticwebassets\\images\\logo\\chevrolet.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\ferrari.png",
+      "PackagePath": "staticwebassets\\images\\logo\\ferrari.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\ford.png",
+      "PackagePath": "staticwebassets\\images\\logo\\ford.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\gmc.png",
+      "PackagePath": "staticwebassets\\images\\logo\\gmc.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\honda.png",
+      "PackagePath": "staticwebassets\\images\\logo\\honda.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\hyundai.png",
+      "PackagePath": "staticwebassets\\images\\logo\\hyundai.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\jeep.png",
+      "PackagePath": "staticwebassets\\images\\logo\\jeep.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\kia.png",
+      "PackagePath": "staticwebassets\\images\\logo\\kia.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\lamborghini.png",
+      "PackagePath": "staticwebassets\\images\\logo\\lamborghini.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\landrover.png",
+      "PackagePath": "staticwebassets\\images\\logo\\landrover.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\lexus.png",
+      "PackagePath": "staticwebassets\\images\\logo\\lexus.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\maserati.png",
+      "PackagePath": "staticwebassets\\images\\logo\\maserati.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\mazda.png",
+      "PackagePath": "staticwebassets\\images\\logo\\mazda.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\mclaren.png",
+      "PackagePath": "staticwebassets\\images\\logo\\mclaren.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\mercedes.png",
+      "PackagePath": "staticwebassets\\images\\logo\\mercedes.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\mg.png",
+      "PackagePath": "staticwebassets\\images\\logo\\mg.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\mini.png",
+      "PackagePath": "staticwebassets\\images\\logo\\mini.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\mitsubishi.png",
+      "PackagePath": "staticwebassets\\images\\logo\\mitsubishi.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\nissan.png",
+      "PackagePath": "staticwebassets\\images\\logo\\nissan.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\pagani.png",
+      "PackagePath": "staticwebassets\\images\\logo\\pagani.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\peugeot.png",
+      "PackagePath": "staticwebassets\\images\\logo\\peugeot.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\porsche.png",
+      "PackagePath": "staticwebassets\\images\\logo\\porsche.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\rolls-royce.png",
+      "PackagePath": "staticwebassets\\images\\logo\\rolls-royce.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\subaru.png",
+      "PackagePath": "staticwebassets\\images\\logo\\subaru.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\suzuki.png",
+      "PackagePath": "staticwebassets\\images\\logo\\suzuki.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\toyota.png",
+      "PackagePath": "staticwebassets\\images\\logo\\toyota.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\vinfast.png",
+      "PackagePath": "staticwebassets\\images\\logo\\vinfast.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\vokjswagen.png",
+      "PackagePath": "staticwebassets\\images\\logo\\vokjswagen.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\logo\\volvo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\volvo.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\570-gt-2.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\570-gt-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\570-s-coupe-2.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\570-s-coupe-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\600-lt-2.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\600-lt-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\600-lt-spider-2.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\600-lt-spider-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\675-lt-2.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\675-lt-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\675-lt-spider-2.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\675-lt-spider-2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\720s-coupe-jellybean-optimised-1.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\720s-coupe-jellybean-optimised-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\720s-jellybean-optimised-1.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\720s-jellybean-optimised-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\765-1.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\765-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\ML_P16S_preview_v2.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\ML_P16S_preview_v2.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\P26-Jellybean-1.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\P26-Jellybean-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mclaren\\Speedtail-optimised-30-1.webp",
+      "PackagePath": "staticwebassets\\images\\mclaren\\Speedtail-optimised-30-1.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\C200-Avantgarde-Plus.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\C200-Avantgarde-Plus.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\E200_Den.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\E200_Den.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\E300_AMG.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\E300_AMG.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\G63.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\G63.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\GLB-35-W-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\GLB-35-W-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\GLB200_Den.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\GLB200_Den.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\GLC_300_Coupe.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\GLC_300_Coupe.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\GLE-450-W.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\GLE-450-W.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\GLS-450-EM.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\GLS-450-EM.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\GT53-2.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\GT53-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\S450-L-New.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\S450-L-New.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\V250_AMG.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\V250_AMG.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\glc-300-all-new-1.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\glc-300-all-new-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\glc200-4matic-all-new.png",
+      "PackagePath": "staticwebassets\\images\\mercedes\\glc200-4matic-all-new.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\iris (1).webp",
+      "PackagePath": "staticwebassets\\images\\mercedes\\iris (1).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\iris (2).webp",
+      "PackagePath": "staticwebassets\\images\\mercedes\\iris (2).webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\mercedes\\iris.webp",
+      "PackagePath": "staticwebassets\\images\\mercedes\\iris.webp"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\roll royce\\cq5dam.web.1920 (2).png",
+      "PackagePath": "staticwebassets\\images\\roll royce\\cq5dam.web.1920 (2).png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\roll royce\\cq5dam.web.1920 (3).png",
+      "PackagePath": "staticwebassets\\images\\roll royce\\cq5dam.web.1920 (3).png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\roll royce\\cq5dam.web.1920.png",
+      "PackagePath": "staticwebassets\\images\\roll royce\\cq5dam.web.1920.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\roll royce\\cq5dam.web.828 (1).png",
+      "PackagePath": "staticwebassets\\images\\roll royce\\cq5dam.web.828 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\images\\roll royce\\cq5dam.web.828.png",
+      "PackagePath": "staticwebassets\\images\\roll royce\\cq5dam.web.828.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\knockout\\knockout-latest.debug.js",
+      "PackagePath": "staticwebassets\\lib\\knockout\\knockout-latest.debug.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\knockout\\knockout-latest.debug.min.js",
+      "PackagePath": "staticwebassets\\lib\\knockout\\knockout-latest.debug.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\knockout\\knockout-latest.debug.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\knockout\\knockout-latest.debug.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\knockout\\knockout-latest.js",
+      "PackagePath": "staticwebassets\\lib\\knockout\\knockout-latest.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\knockout\\knockout-latest.min.js",
+      "PackagePath": "staticwebassets\\lib\\knockout\\knockout-latest.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\knockout\\knockout-latest.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\knockout\\knockout-latest.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\microsoft-signalr\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft-signalr\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\microsoft-signalr\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft-signalr\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\DA Web\\DA WebOto\\StoreCars\\StoreCars\\wwwroot\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StoreCars.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StoreCars.props",
+      "PackagePath": "build\\StoreCars.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StoreCars.props",
+      "PackagePath": "buildMultiTargeting\\StoreCars.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StoreCars.props",
+      "PackagePath": "buildTransitive\\StoreCars.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
